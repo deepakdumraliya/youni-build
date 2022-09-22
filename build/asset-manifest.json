@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.js": "/static/js/main.0b054240.chunk.js",
+    "main.js.map": "/static/js/main.0b054240.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.72daad25.js",
+    "runtime-main.js.map": "/static/js/runtime-main.72daad25.js.map",
+    "static/css/2.6f360ebc.chunk.css": "/static/css/2.6f360ebc.chunk.css",
+    "static/js/2.a6525791.chunk.js": "/static/js/2.a6525791.chunk.js",
+    "static/js/2.a6525791.chunk.js.map": "/static/js/2.a6525791.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.6f360ebc.chunk.css.map": "/static/css/2.6f360ebc.chunk.css.map",
+    "static/js/2.a6525791.chunk.js.LICENSE.txt": "/static/js/2.a6525791.chunk.js.LICENSE.txt",
+    "static/media/Abstract.bf969afc.jpg": "/static/media/Abstract.bf969afc.jpg",
+    "static/media/BohoHome.818cfc89.jpg": "/static/media/BohoHome.818cfc89.jpg",
+    "static/media/BohoHome.94b66110.jpg": "/static/media/BohoHome.94b66110.jpg",
+    "static/media/Bookshelf.15f8b430.jpg": "/static/media/Bookshelf.15f8b430.jpg",
+    "static/media/Bookshelf.1791e55a.jpg": "/static/media/Bookshelf.1791e55a.jpg",
+    "static/media/CoffeeShop.0bc87a8a.jpg": "/static/media/CoffeeShop.0bc87a8a.jpg",
+    "static/media/CoffeeShop.9db4d4d3.jpg": "/static/media/CoffeeShop.9db4d4d3.jpg",
+    "static/media/Contemporary.a1dba84b.jpg": "/static/media/Contemporary.a1dba84b.jpg",
+    "static/media/Contemporary.cf81b040.jpg": "/static/media/Contemporary.cf81b040.jpg",
+    "static/media/CozyHome.060c2b09.jpg": "/static/media/CozyHome.060c2b09.jpg",
+    "static/media/CozyHome.2358a4e4.jpg": "/static/media/CozyHome.2358a4e4.jpg",
+    "static/media/Desert.76a1e7e3.jpg": "/static/media/Desert.76a1e7e3.jpg",
+    "static/media/Fishing.5bc4c206.jpg": "/static/media/Fishing.5bc4c206.jpg",
+    "static/media/Flower.0668304c.jpg": "/static/media/Flower.0668304c.jpg",
+    "static/media/Kitchen.d0769877.jpg": "/static/media/Kitchen.d0769877.jpg",
+    "static/media/ModernHome.9d73ece7.jpg": "/static/media/ModernHome.9d73ece7.jpg",
+    "static/media/Nature.ae7c02d2.jpg": "/static/media/Nature.ae7c02d2.jpg",
+    "static/media/Ocean.a3116b07.jpg": "/static/media/Ocean.a3116b07.jpg",
+    "static/media/Patio.b947b33e.jpg": "/static/media/Patio.b947b33e.jpg",
+    "static/media/Plant.d156b0af.jpg": "/static/media/Plant.d156b0af.jpg",
+    "static/media/SanFrancisco.5eb64308.jpg": "/static/media/SanFrancisco.5eb64308.jpg",
+    "static/media/google-logo.30a4777e.svg": "/static/media/google-logo.30a4777e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72daad25.js",
+    "static/css/2.6f360ebc.chunk.css",
+    "static/js/2.a6525791.chunk.js",
+    "static/js/main.0b054240.chunk.js"
+  ]
+}
